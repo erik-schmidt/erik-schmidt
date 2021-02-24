@@ -1,4 +1,4 @@
-<h1> <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-dance.gif" width="45" /> Hey! Schön dich zu sehen. </h1>
+<h1> <img align="center" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-dance.gif" width="45" /> Hey! Schön dich hier zu haben. </h1>
 
 <!-- Zitat hinzufügen! -->
 
