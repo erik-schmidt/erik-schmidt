@@ -2,15 +2,16 @@
 
 <!-- Zitat hinzufügen! -->
 
-<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <img src="https://www.flaticon.com/svg/vstatic/svg/197/197571.svg?token=exp=1614162872~hmac=6e142c1d4717727639a2ba52a6b36c49" width="13"> <b>Stuttgart, Deutschland</b> und arbeite als Werkstudent bei der [BCM Solutions GmbH](https://bcmsolutions.de/).</p>
+<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <img src="https://www.flaticon.com/svg/vstatic/svg/197/197571.svg?token=exp=1614173962~hmac=1d5b37f3a5057d1bc49d5e483c55ad57" width="13"> <b>Stuttgart, Deutschland</b> und arbeite als Werkstudent bei der <a href="https://bcmsolutions.de">BCM Solutions GmbH </a>.</p>
 
 <h2> :space_invader: Meine Hobbys </h2>
-<p> Neben dem Programmieren lese ich auch unglaublich gerne Bücher. Hauptsächlich lese ich Fantasy, Sci-Fi und Sachbücher. </br> Ich meditiere unter anderem sehr gerne! Ich meditiere so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Meditationen bei der BCM Solutions GmbH anbiete. </br> Da mir das meditieren so Spaß macht, mache ich zusätzlich Vinyasa Yoga. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
+<p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Fantasy, Sci-Fi und Sachbücher. </br> Ich meditiere unter anderem sehr gerne! Ich meditiere so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Meditationen bei der BCM Solutions GmbH anbiete. </br> Da mir das meditieren so Spaß macht, mache ich zusätzlich Vinyasa Yoga. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
 
 <h2> :pencil2: Blog & Schreiben </h2>
-<p>Neben den ganzen Hobbys und den ganzen Programmieren, bekomme ich es hin einen eigenen Blog zu führen - du kannst meine Artikel auf erik-schmidt.github.io finden. Schaue doch mal vorbei :wink:</p>
+<p>Neben den ganzen Hobbys und den ganzen Programmieren, bekomme ich es hin einen eigenen Blog zu führen - du kannst meine Artikel auf <a href="https://erik-schmidt.github.io"> erik-schmidt.github.io </a> finden. Schaue doch mal vorbei :wink:</p>
 
 <h2> :wrench: Technologien & Tools </h2>
+<p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=gray">
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -39,13 +40,14 @@
 <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white">
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?stlye=flat-square&logo=confluence&logoColor=white">
+</p>
 
 <h2> Github Stats </h2>
 <a href="https://github.com/erik-schmidt/erik-schmidt">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=erik-schmidt&count_private=true" alt="Erik's Github Stats">
+<img height="200" src="https://github-readme-stats.vercel.app/api/?username=erik-schmidt&count_private=true" alt="Erik's Github Stats">
 </a>
 <a href="https://github.com/erik-schmidt/erik-schmidt">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-schmidt&layout=compact">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-schmidt&layout=compact">
 </a>
 
 <h2> Hier kannst du mich erreichen </h2>
