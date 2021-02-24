@@ -44,10 +44,10 @@
 
 <h2> Github Stats </h2>
 <a href="https://github.com/erik-schmidt/erik-schmidt">
-<img height="200" src="https://github-readme-stats.vercel.app/api/?username=erik-schmidt&count_private=true" alt="Erik's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=erik-schmidt&count_private=true" alt="Erik's Github Stats">
 </a>
 <a href="https://github.com/erik-schmidt/erik-schmidt">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-schmidt&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-schmidt&layout=compact">
 </a>
 
 <h2> Hier kannst du mich erreichen </h2>
