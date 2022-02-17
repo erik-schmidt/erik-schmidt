@@ -59,3 +59,5 @@
 </a>
 <a href="https://www.xing.com/profile/Erik_Schmidt96/cv">
 <img alt="Xing" src="https://img.shields.io/badge/-Xing-006567?style=for-the-badge&logo=xing&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/erik-schmidt-/">
