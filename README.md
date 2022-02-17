@@ -2,7 +2,7 @@
 
 <!-- Zitat hinzufügen! -->
 
-<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <img src="https://www.flaticon.com/svg/vstatic/svg/197/197571.svg?token=exp=1614173962~hmac=1d5b37f3a5057d1bc49d5e483c55ad57" width="13"> <b>Stuttgart, Deutschland</b> und arbeite als Werkstudent bei der <a href="https://bcmsolutions.de">BCM Solutions GmbH </a>.</p>
+<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <b>Stuttgart, Deutschland</b> und arbeite als Werkstudent bei der <a href="https://bcmsolutions.de">BCM Solutions GmbH </a>.</p>
 
 <h2> :space_invader: Meine Hobbys </h2>
 <p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Fantasy, Sci-Fi und Sachbücher. </br> Ich meditiere unter anderem sehr gerne! Ich meditiere so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Meditationen bei der BCM Solutions GmbH anbiete. </br> Da mir das meditieren so Spaß macht, mache ich zusätzlich Vinyasa Yoga. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
@@ -61,3 +61,5 @@
 <img alt="Xing" src="https://img.shields.io/badge/-Xing-006567?style=for-the-badge&logo=xing&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/erik-schmidt-/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
