@@ -2,13 +2,10 @@
 
 <!-- Zitat hinzufügen! -->
 
-<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <b>Stuttgart, Deutschland</b> und arbeite als Werkstudent bei der <a href="https://bcmsolutions.de">BCM Solutions GmbH </a>.</p>
+<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <b>Ludwigsburg, Deutschland</b> und schreibe meine Abschlussarbeit bei der <a href="https://www.camos.de/de">camos Software und Beratung GmbH </a>.</p>
 
 <h2> :space_invader: Meine Hobbys </h2>
-<p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Fantasy, Sci-Fi und Sachbücher. </br> Ich meditiere unter anderem sehr gerne! Ich meditiere so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Meditationen bei der BCM Solutions GmbH anbiete. </br> Da mir das meditieren so Spaß macht, mache ich zusätzlich Vinyasa Yoga. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
-
-<h2> :pencil2: Blog & Schreiben </h2>
-<p>Neben den ganzen Hobbys und den ganzen Programmieren, bekomme ich es hin einen eigenen Blog zu führen - du kannst meine Artikel auf <a href="https://erik-schmidt.github.io"> erik-schmidt.github.io </a> finden. Schaue doch mal vorbei :wink:</p>
+<p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Philosophie, Sci-Fi und Sachbücher. </br> ich praktiziere unter anderem sehr gerne Achtsamkeitsübungen! Ich praktiziere sie so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Achtsamkeitsübungen bei der BCM Solutions GmbH angeboten habe. </br> Neben den Achtsamkeitsübungen, gehe ich auch sehr gerne ins Fitnessstudio, als Ausgleich meines Alltags und für meine persönliche Fitness. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
 
 <h2> :wrench: Technologien & Tools </h2>
 <p>
@@ -51,11 +48,11 @@
 </a>
 
 <h2> Hier kannst du mich erreichen </h2>
-<a href="https://twitter.com/erikschmidt_">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 <a href="https://github.com/erik-schmidt">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://mastodon.online/@erschmid">
+<img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-563acc?style=for-the-badge&logo=mastodon&logoColor=white">
 </a>
 <a href="https://www.xing.com/profile/Erik_Schmidt96/cv">
 <img alt="Xing" src="https://img.shields.io/badge/-Xing-006567?style=for-the-badge&logo=xing&logoColor=white">
