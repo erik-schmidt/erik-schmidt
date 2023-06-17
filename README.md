@@ -55,9 +55,6 @@
 <a href="https://mastodon.online/@erschmid" rel="me">
 <img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-563acc?style=for-the-badge&logo=mastodon&logoColor=white">
 </a>
-<a href="https://www.xing.com/profile/Erik_Schmidt96/cv">
-<img alt="Xing" src="https://img.shields.io/badge/-Xing-006567?style=for-the-badge&logo=xing&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/erik-schmidt-/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
