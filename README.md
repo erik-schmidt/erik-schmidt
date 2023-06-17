@@ -2,10 +2,10 @@
 
 <!-- Zitat hinzufügen! -->
 
-<p> Mein Name ist Erik Schmidt und ich studiere angewandte Informatik mit Fachrichtung Psychologie. </br> Ich komme aus <b>Ludwigsburg, Deutschland</b> und schreibe meine Abschlussarbeit bei der <a href="https://www.camos.de/de">camos Software und Beratung GmbH </a>.</p>
+<p> Mein Name ist Erik Schmidt und ich bin als Software Entwickler bei <a href="https://xl2.de/">XL2 GmbH by Audi & Capgemini </a> tätig. </br> Ich komme aus <b>Ludwigsburg, Deutschland</b>. </p>
 
 <h2> :space_invader: Meine Hobbys </h2>
-<p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Philosophie, Sci-Fi und Sachbücher. </br> ich praktiziere unter anderem sehr gerne Achtsamkeitsübungen! Ich praktiziere sie so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Achtsamkeitsübungen bei der BCM Solutions GmbH angeboten habe. </br> Neben den Achtsamkeitsübungen, gehe ich auch sehr gerne ins Fitnessstudio, als Ausgleich meines Alltags und für meine persönliche Fitness. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
+<p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Philosophie, Sci-Fi und Sachbücher. </br> Ich praktiziere unter anderem sehr gerne Achtsamkeitsübungen! Ich praktiziere sie so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Achtsamkeitsübungen bei Unternehmen durchgeführt habe. </br> Neben den Achtsamkeitsübungen, gehe ich auch sehr gerne ins Fitnessstudio, als Ausgleich meines Alltags und für meine persönliche Fitness. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
 
 <h2> :wrench: Technologien & Tools </h2>
 <p>
@@ -37,6 +37,7 @@
 <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white">
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?stlye=flat-square&logo=confluence&logoColor=white">
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
 <h2> Github Stats </h2>
@@ -51,7 +52,7 @@
 <a href="https://github.com/erik-schmidt">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://mastodon.online/@erschmid">
+<a href="https://mastodon.online/@erschmid" rel="me">
 <img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-563acc?style=for-the-badge&logo=mastodon&logoColor=white">
 </a>
 <a href="https://www.xing.com/profile/Erik_Schmidt96/cv">
