@@ -2,7 +2,7 @@
 
 <!-- Zitat hinzufügen! -->
 
-<p> Mein Name ist Erik Schmidt und ich bin als Software Entwickler bei <a href="https://xl2.de/">XL2 GmbH by Audi & Capgemini </a> tätig. </br> Ich komme aus <b>Sachsenheim, Deutschland</b>. </p>
+<p> Mein Name ist Erik Schmidt und ich bin als Software Entwickler bei <a href="https://xl2.de/">XL2 GmbH by Audi & Capgemini </a> tätig. </br> Ich komme aus <b>Deutschland</b>. </p>
 
 <h2> :space_invader: Meine Hobbys </h2>
 <p> Ich lese unglaublich gerne Bücher. Hauptsächlich lese ich Philosophie, Sci-Fi und Sachbücher. </br> Ich praktiziere unter anderem sehr gerne Achtsamkeitsübungen! Ich praktiziere sie so gerne, dass ich unter dem Motto "Work-Life-Balance" wöchentliche Achtsamkeitsübungen bei Unternehmen durchgeführt habe. </br> Neben den Achtsamkeitsübungen, gehe ich auch sehr gerne ins Fitnessstudio, als Ausgleich meines Alltags und für meine persönliche Fitness. </br> Um dich da zu beruhigen, ich bin auch ein großer Nerd. Ich zocke gerne Videospiele in meiner Freizeit. Darunter zählen Genres wie Strategiespiele, Rollenspiele, Actionspiele oder auch Nintendo-Spiele!</p>
