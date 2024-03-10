@@ -52,7 +52,7 @@
 <a href="https://github.com/erik-schmidt">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://mastodon.online/@erschmid" rel="me">
+<a href="https://mastodon.social/@erikschmidt" rel="me">
 <img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-563acc?style=for-the-badge&logo=mastodon&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/erik-schmidt-/">
